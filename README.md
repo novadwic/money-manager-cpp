@@ -1,7 +1,3 @@
-================================================
-          MONEY MANAGER LITE v1.0
-================================================
-
 📋 DESKRIPSI
 Aplikasi manajemen keuangan sederhana dengan fitur:
 • Pencatatan pemasukan/pengeluaran
@@ -14,9 +10,8 @@ Aplikasi manajemen keuangan sederhana dengan fitur:
 🚀 CARA MENJALANKAN:
 
 1. Untuk pengguna baru:
-   - Jalankan file `install.bat` (sebagai administrator)
+   - Jalankan file `run.bat` (sebagai administrator)
    - Ikuti proses instalasi
-   - Setelah selesai, jalankan `run.bat`
 
 2. Untuk pengguna yang sudah install:
    - Jalankan file `run.bat`
